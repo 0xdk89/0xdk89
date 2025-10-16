@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# It's Duke - DK!
+
+## 🧠 About Me
+* AI Engineer
+* Web3 Builder
+* Investor
+* Techincal & On-chain Analysis
+  
+## 📈 Portfolio & Interests
+**80% $BTC** - Bitcoin Diamond Hand 💎🙌
+## 🌐 Connect
+- 🧭 Website / Blog (🇻🇳): [0xdk89.github.io](https://0xdk89.github.io)
+- 🌏 Twitter/X: [@0xDK89](https://twitter.com/0xDK89)
+- 🇻🇳 Twitter/X: [@DukePh8888](https://twitter.com/DukePh8888)
+---
+
+> _“Data = Quant + Behavior + Psychology 🧠”_
+> 
+![Duke's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xdk89&show_icons=true&theme=dracula)
