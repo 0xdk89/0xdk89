@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 * Web3 Builder
 * Investor
 * Techincal & On-chain Analysis
-  
-## 📈 Portfolio & Interests
-**$BTC** - Bitcoin Diamond Hand 💎🙌
-**$ETH Maxi**
+
 ## 🌐 Connect
 - 🧭 Website / Blog (🇻🇳): [0xdk89.github.io](https://0xdk89.github.io)
 - 🌏 Twitter/X: [@0xDK89](https://twitter.com/0xDK89)
